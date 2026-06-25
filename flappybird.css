@@ -1,0 +1,15 @@
+body {
+    font-family:'Courier New, Courier, monospace;
+    text-align: center;
+}
+
+#board {
+   /* background-color: skyblue;*/
+   background-image: url(./background-apocalypse.png);
+   height: 100vh;
+   background-position-y: bottom;
+   width: 30vw;
+   background-size: 150%;
+
+
+}
