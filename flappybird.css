@@ -6,10 +6,14 @@ body {
 #board {
    /* background-color: skyblue;*/
    background-image: url(./background-apocalypse.png);
-   height: 100vh;
+   height: 100%;
    background-position-y: bottom;
-   width: 30vw;
+   width: 100%;
    background-size: 150%;
 
 
+}
+.container {
+    max-width: 400px;
+    margin: 0 auto;
 }
